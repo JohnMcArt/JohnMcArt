@@ -1,16 +1,156 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**JohnMcArt/JohnMcArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:090909,45:26070B,75:8F1021,100:D71932&text=JO%C3%83O%20PEDRO&fontColor=F5F0EE&fontSize=52&fontAlignY=43&desc=CODE%20%2F%2F%20CREATE%20%2F%2F%20REPEAT&descSize=14&descAlignY=68&animation=twinkling" width="100%" alt="Banner autoral em vermelho e preto"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=15&duration=2600&pause=800&color=F04452&center=true&vCenter=true&width=650&lines=BUILDING+THROUGH+EXPERIMENTATION;CODING+IS+A+FORM+OF+CREATION;TECHNOLOGY+WITHOUT+FEAR+OF+THE+UNKNOWN;EM+CONSTRU%C3%87%C3%83O.+SEMPRE." alt="Frases animadas"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://img.shields.io/badge/01-LEARN-181414?style=flat-square&labelColor=B51227&color=181414" alt="Learn"/>
+<img src="https://img.shields.io/badge/02-BUILD-181414?style=flat-square&labelColor=B51227&color=181414" alt="Build"/>
+<img src="https://img.shields.io/badge/03-REINVENT-181414?style=flat-square&labelColor=B51227&color=181414" alt="Reinvent"/>
+
+<br/><br/>
+
+[ SOBRE MIM ](#01--sobre-mim) · [ STACK ](#02--arsenal-técnico) · [ PROJETOS ](#03--projetos) · [ CONTATO ](#05--conexões)
+
+</div>
+
+---
+
+### `01 // SOBRE MIM`
+
+**PT-BR — Tecnologia, criatividade e experimentação.**
+
+Sou estudante de **Informática para Internet no IF Baiano**, interessado em desenvolvimento de software, sistemas web, design digital e criação de soluções tecnológicas.
+
+Vejo a programação como uma ferramenta para transformar ideias em experiências concretas. Gosto de experimentar, investigar como os sistemas funcionam e desenvolver projetos que combinem lógica, funcionalidade e identidade visual.
+
+* `01` Desenvolvimento de aplicações e sistemas.
+* `02` Programação, bancos de dados e tecnologias web.
+* `03` Design, edição e comunicação visual.
+* `04` Aprendizado contínuo por meio de projetos práticos.
+
+**EN — Technology, creativity, and experimentation.**
+
+I'm an Internet Computing student at IF Baiano, Brazil, interested in software development, web systems, digital design, and creative technology.
+
+I see programming as a way to turn ideas into practical experiences. I enjoy experimenting, understanding how systems work, and building projects that combine logic, functionality, and visual identity.
+
+*Currently learning. Constantly building. Never finished.*
+
+---
+
+### `02 // ARSENAL TÉCNICO`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,java,c,html,css,mysql,git,github,vscode&theme=dark&perline=5" alt="Tecnologias e ferramentas"/>
+
+</div>
+
+| CATEGORIA    | TECNOLOGIAS                       |
+| :----------- | :-------------------------------- |
+| `LANG / 01`  | Python · Java · C                 |
+| `WEB / 02`   | HTML · CSS · Django               |
+| `DATA / 03`  | MySQL                             |
+| `TOOLS / 04` | Git · GitHub · Visual Studio Code |
+| `LAB / 05`   | ESP32 · Roblox Studio             |
+
+<sub>Minha experiência varia de acordo com a tecnologia e o projeto. A lista representa ferramentas com as quais tenho contato, não uma declaração de domínio avançado.</sub>
+
+<sub>My experience varies by technology and project. This list represents tools I've worked with or explored, not a claim of advanced proficiency.</sub>
+
+---
+
+### `03 // PROJETOS`
+
+*Experimentos em andamento. Sistemas em construção. Ideias tomando forma.*
+
+*Experiments in progress. Systems under construction. Ideas taking shape.*
+
+#### `PROJECT_001` — Planejamento Diário
+
+**Daily Planning & Time Management System**
+
+Aplicação de produtividade voltada à organização de tarefas, hábitos, metas, calendário, progresso e técnica Pomodoro.
+
+O projeto busca reunir recursos de planejamento pessoal em uma experiência organizada, útil e acessível.
+
+`PYTHON` / `DJANGO` / `HTML` / `CSS` / `MYSQL`
+
+[ ACCESS REPOSITORY ↗](https://github.com/SEU_USUARIO/LINK_DO_PROJETO_1)
+
+---
+
+#### `PROJECT_002` — SIGA
+
+**Sistema Integrado de Gestão Acadêmica**
+
+Sistema de gestão escolar com estrutura para organizar estudantes, professores, cursos, turmas, avaliações e notas.
+
+O projeto explora modelagem de dados, relacionamentos entre entidades e desenvolvimento de funcionalidades para gestão acadêmica.
+
+`PYTHON` / `DJANGO` / `MYSQL` / `UML`
+
+[ ACCESS REPOSITORY ↗](https://github.com/SEU_USUARIO/LINK_DO_PROJETO_2)
+
+---
+
+#### `PROJECT_003` — Soil Monitoring
+
+**Monitoramento de Umidade do Solo com ESP32**
+
+Projeto experimental que combina microcontrolador, sensor de umidade e relé para explorar automação baseada em um limite configurado.
+
+Uma experiência prática de integração entre software, eletrônica e controle físico.
+
+`ESP32` / `C-C++` / `SENSORS` / `AUTOMATION`
+
+[ ACCESS REPOSITORY ↗](https://github.com/SEU_USUARIO/LINK_DO_PROJETO_3)
+
+---
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181414?style=for-the-badge&logo=github&logoColor=F04452&labelColor=181414" alt="Explorar projetos"/></a>
+
+</div>
+
+---
+
+### `04 // GITHUB ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0B0B&title_color=F04452&icon_color=D71932&text_color=E8E0E0&ring_color=D71932&include_all_commits=true" height="165" alt="Estatísticas do GitHub"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D0B0B&title_color=F04452&text_color=E8E0E0&langs_count=6" height="165" alt="Linguagens dos repositórios"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=0D0B0B&ring=D71932&fire=F04452&currStreakLabel=F04452&sideLabels=E8E0E0&dates=999090&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Histórico de contribuições"/>
+
+</div>
+
+<sub>As estatísticas dependem da disponibilidade dos serviços externos e dos dados do GitHub. As linguagens detectadas nos repositórios não medem o domínio técnico.</sub>
+
+---
+
+### `05 // CONEXÕES`
+
+<div align="center">
+
+**CRIAR. EXPERIMENTAR. REINVENTAR.**
+
+**CREATE. EXPERIMENT. REINVENT.**
+
+<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GITHUB-181414?style=for-the-badge&logo=github&logoColor=F04452" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-181414?style=for-the-badge&logo=linkedin&logoColor=F04452" alt="LinkedIn"/></a> <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/EMAIL-181414?style=for-the-badge&logo=gmail&logoColor=F04452" alt="E-mail"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:090909,50:540B16,100:D71932" width="100%" alt="Rodapé vermelho e preto"/>
+
+<sub>INDEPENDENT MINDSET // CONTINUOUS EVOLUTION</sub>
+
+</div>
