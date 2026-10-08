@@ -104,6 +104,12 @@ O projeto explora modelagem de dados, relacionamentos entre entidades e desenvol
 
 <img src="https://streak-stats.demolab.com?user=JohnMcArt&hide_border=true&background=0D0B0B&ring=D71932&fire=F04452&currStreakLabel=F04452&sideLabels=E8E0E0&dates=999090&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Histórico de contribuições"/>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação vermelha da cobra no gráfico de contribuições"/>
+
+</div>
+
 </div>
 
 <sub>As estatísticas dependem da disponibilidade dos serviços externos e dos dados do GitHub. As linguagens detectadas nos repositórios não medem o domínio técnico.</sub>
