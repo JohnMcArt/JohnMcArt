@@ -124,7 +124,7 @@ O projeto explora modelagem de dados, relacionamentos entre entidades e desenvol
 <a href="https://github.com/JohnMcArt">
   <img src="https://img.shields.io/badge/GITHUB-181414?style=for-the-badge&logo=github&logoColor=F04452" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<a href="https://www.linkedin.com/in/(não tenho perfil ainda)/">
   <img src="https://img.shields.io/badge/LINKEDIN-181414?style=for-the-badge&logo=linkedin&logoColor=F04452" alt="LinkedIn"/>
 </a>
 <a href="mailto:bastosdasilvajoaopedro@gmail.com">
