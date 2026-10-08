@@ -118,7 +118,7 @@ O projeto explora modelagem de dados, relacionamentos entre entidades e desenvol
 
 **CREATE. EXPERIMENT. REINVENT.**
 
-<a href="https://github.com/JohnMcArt"><img src="https://img.shields.io/badge/GITHUB-181414?style=for-the-badge&logo=github&logoColor=F04452" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-181414?style=for-the-badge&logo=linkedin&logoColor=F04452" alt="LinkedIn"/></a> <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/EMAIL-181414?style=for-the-badge&logo=gmail&logoColor=F04452" alt="E-mail"/></a>
+<a href="https://github.com/JohnMcArt"><img src="https://img.shields.io/badge/GITHUB-181414?style=for-the-badge&logo=github&logoColor=F04452" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-181414?style=for-the-badge&logo=linkedin&logoColor=F04452" alt="LinkedIn"/></a> <a href="mailto:bastosdasilvajoaopedro@gmail.com"><img src="https://img.shields.io/badge/EMAIL-181414?style=for-the-badge&logo=gmail&logoColor=F04452" alt="E-mail"/></a>
 
 <br/><br/>
 
