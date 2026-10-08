@@ -63,27 +63,14 @@ I see programming as a way to turn ideas into practical experiences. I enjoy exp
 
 ---
 
-### `03 // PROJETOS`
+### `// PROJETOS`
 
 *Experimentos em andamento. Sistemas em construção. Ideias tomando forma.*
 
 *Experiments in progress. Systems under construction. Ideas taking shape.*
-
-#### `PROJECT_001` — Planejamento Diário
-
-**Daily Planning & Time Management System**
-
-Aplicação de produtividade voltada à organização de tarefas, hábitos, metas, calendário, progresso e técnica Pomodoro.
-
-O projeto busca reunir recursos de planejamento pessoal em uma experiência organizada, útil e acessível.
-
-`PYTHON` / `DJANGO` / `HTML` / `CSS` / `MYSQL`
-
-[ ACCESS REPOSITORY ↗](https://github.com/SEU_USUARIO/LINK_DO_PROJETO_1)
-
 ---
 
-#### `PROJECT_002` — SIGA
+#### `PROJECT_001` — SIGA
 
 **Sistema Integrado de Gestão Acadêmica**
 
@@ -93,27 +80,13 @@ O projeto explora modelagem de dados, relacionamentos entre entidades e desenvol
 
 `PYTHON` / `DJANGO` / `MYSQL` / `UML`
 
-[ ACCESS REPOSITORY ↗](https://github.com/SEU_USUARIO/LINK_DO_PROJETO_2)
-
----
-
-#### `PROJECT_003` — Soil Monitoring
-
-**Monitoramento de Umidade do Solo com ESP32**
-
-Projeto experimental que combina microcontrolador, sensor de umidade e relé para explorar automação baseada em um limite configurado.
-
-Uma experiência prática de integração entre software, eletrônica e controle físico.
-
-`ESP32` / `C-C++` / `SENSORS` / `AUTOMATION`
-
-[ ACCESS REPOSITORY ↗](https://github.com/SEU_USUARIO/LINK_DO_PROJETO_3)
+[ ACCESS REPOSITORY ↗](https://github.com/geovana4lves/Projeto-final-psw)
 
 ---
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181414?style=for-the-badge&logo=github&logoColor=F04452&labelColor=181414" alt="Explorar projetos"/></a>
+<a href="https://github.com/JohnMcArt?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181414?style=for-the-badge&logo=github&logoColor=F04452&labelColor=181414" alt="Explorar projetos"/></a>
 
 </div>
 
@@ -123,13 +96,13 @@ Uma experiência prática de integração entre software, eletrônica e controle
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0B0B&title_color=F04452&icon_color=D71932&text_color=E8E0E0&ring_color=D71932&include_all_commits=true" height="165" alt="Estatísticas do GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JohnMcArt&show_icons=true&hide_border=true&bg_color=0D0B0B&title_color=F04452&icon_color=D71932&text_color=E8E0E0&ring_color=D71932&include_all_commits=true" height="165" alt="Estatísticas do GitHub"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D0B0B&title_color=F04452&text_color=E8E0E0&langs_count=6" height="165" alt="Linguagens dos repositórios"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMcArt&layout=compact&hide_border=true&bg_color=0D0B0B&title_color=F04452&text_color=E8E0E0&langs_count=6" height="165" alt="Linguagens dos repositórios"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=0D0B0B&ring=D71932&fire=F04452&currStreakLabel=F04452&sideLabels=E8E0E0&dates=999090&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Histórico de contribuições"/>
+<img src="https://streak-stats.demolab.com?user=JohnMcArt&hide_border=true&background=0D0B0B&ring=D71932&fire=F04452&currStreakLabel=F04452&sideLabels=E8E0E0&dates=999090&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Histórico de contribuições"/>
 
 </div>
 
@@ -145,7 +118,7 @@ Uma experiência prática de integração entre software, eletrônica e controle
 
 **CREATE. EXPERIMENT. REINVENT.**
 
-<a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/badge/GITHUB-181414?style=for-the-badge&logo=github&logoColor=F04452" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-181414?style=for-the-badge&logo=linkedin&logoColor=F04452" alt="LinkedIn"/></a> <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/EMAIL-181414?style=for-the-badge&logo=gmail&logoColor=F04452" alt="E-mail"/></a>
+<a href="https://github.com/JohnMcArt"><img src="https://img.shields.io/badge/GITHUB-181414?style=for-the-badge&logo=github&logoColor=F04452" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-181414?style=for-the-badge&logo=linkedin&logoColor=F04452" alt="LinkedIn"/></a> <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/EMAIL-181414?style=for-the-badge&logo=gmail&logoColor=F04452" alt="E-mail"/></a>
 
 <br/><br/>
 
