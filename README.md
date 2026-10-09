@@ -1,18 +1,18 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:090909,45:26070B,75:8F1021,100:D71932&text=JohnMcArt&fontColor=F5F0EE&fontSize=52&fontAlignY=43&desc=CODE%20%2F%2F%20CREATE%20%2F%2F%20REPEAT&descSize=14&descAlignY=68&animation=twinkling" width="100%" alt="JohnMcArt — banner vermelho e preto"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:08070A,35:1B0B24,65:531044,82:97152E,100:D71932&text=JohnMcArt&fontColor=F8EFF8&fontSize=58&fontAlignY=43&desc=CODE%20%2F%2F%20DESIGN%20%2F%2F%20A%20LITTLE%20CHAOS&descSize=13&descAlignY=68&animation=twinkling" width="100%" alt="JohnMcArt — identidade visual em preto, roxo e vermelho"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=15&duration=2600&pause=800&color=F04452&center=true&vCenter=true&width=650&lines=BUILDING+THROUGH+EXPERIMENTATION;CODING+IS+A+FORM+OF+CREATION;TECHNOLOGY+WITHOUT+FEAR+OF+THE+UNKNOWN;EM+CONSTRU%C3%87%C3%83O.+SEMPRE" alt="Frases animadas"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/01-LEARN-181414?style=flat-square&labelColor=B51227&color=181414" alt="Learn"/>
-<img src="https://img.shields.io/badge/02-BUILD-181414?style=flat-square&labelColor=B51227&color=181414" alt="Build"/>
-<img src="https://img.shields.io/badge/03-REINVENT-181414?style=flat-square&labelColor=B51227&color=181414" alt="Reinvent"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=I+MAKE+THINGS+WORK.+AND+LOOK+GOOD.;CODE%2C+DESIGN+AND+A+BIT+OF+CHAOS.;APRENDENDO+NA+PR%C3%81TICA.;STILL+FIGURING+THINGS+OUT." alt="Frases animadas"/>
 
 <br/><br/>
 
-[ SOBRE MIM ](#01--sobre-mim) · [ STACK ](#02--arsenal-técnico) · [ PROJETOS ](#03--projetos) · [ ATIVIDADE ](#04--github-activity) · [ CONTATO ](#05--conexões)
+<img src="https://img.shields.io/badge/01-LEARN-151018?style=flat-square&labelColor=722A85&color=151018" alt="Learn"/>
+<img src="https://img.shields.io/badge/02-BUILD-151018?style=flat-square&labelColor=A71942&color=151018" alt="Build"/>
+<img src="https://img.shields.io/badge/03-REINVENT-151018?style=flat-square&labelColor=722A85&color=151018" alt="Reinvent"/>
+
+<br/><br/>
+
+[ SOBRE MIM ](#01--sobre-mim) · [ TECNOLOGIAS ](#02--arsenal-técnico) · [ PROJETOS ](#03--projetos) · [ GITHUB ](#04--github-activity) · [ CONTATO ](#05--conexões)
 
 </div>
 
@@ -20,24 +20,19 @@
 
 ### `01 // SOBRE MIM`
 
-**PT-BR — Tecnologia, criatividade e experimentação.**
+Oi! Sou o **JohnMcArt**, estudante e desenvolvedor em formação na área de Informática para Internet. Gosto de programação, mas também de tudo que envolve a parte visual de um projeto: identidade, organização, experiência de quem usa e os pequenos detalhes que fazem diferença.
 
-Sou estudante na área de programação Dev/Full Stack, interessado em desenvolvimento de software, sistemas web, bancos de dados, design digital e criação de soluções tecnológicas.
+Tenho explorado principalmente desenvolvimento web, sistemas com banco de dados e aplicações para resolver problemas do dia a dia. Também gosto de pegar projetos antigos e dar uma cara nova para eles.
 
-Vejo a programação como uma ferramenta para transformar ideias em experiências concretas. Gosto de experimentar, investigar como os sistemas funcionam e desenvolver projetos que combinem lógica, funcionalidade e identidade visual.
+Ainda tenho muita coisa para aprender — e bastante coisa que quero tirar do papel. Por enquanto, meu jeito de evoluir é esse: criar, testar, errar, ajustar e tentar de novo.
 
-* `01` Desenvolvimento de aplicações e sistemas.
-* `02` Programação, bancos de dados e tecnologias web.
-* `03` Design, edição e comunicação visual.
-* `04` Aprendizado contínuo por meio de projetos práticos.
+**A little bit about me, in English:**
 
-**EN — Technology, creativity, and experimentation.**
+I'm a developer in progress from Brazil, interested in web development, software, databases and digital design. I enjoy building useful things and giving them a visual identity of their own.
 
-I am a Dev/Full Stack programming student interested in software development, web systems, databases, digital design, and creating technological solutions.
+Most of what I learn comes from actually making projects, breaking things, fixing them and trying new ideas.
 
-I see programming as a way to turn ideas into practical experiences. I enjoy experimenting, understanding how systems work, and building projects that combine logic, functionality, and visual identity.
-
-*Currently learning. Constantly building. Never finished.*
+*Not an expert at everything. Just curious enough to keep building.*
 
 ---
 
@@ -45,90 +40,91 @@ I see programming as a way to turn ideas into practical experiences. I enjoy exp
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,java,c,html,css,mysql,git,github,vscode&theme=dark&perline=5" alt="Tecnologias e ferramentas"/>
+<img src="https://skillicons.dev/icons?i=python,django,java,c,php,html,css,js,mysql,docker,git,github,vscode&theme=dark&perline=7" alt="Tecnologias de desenvolvimento e ferramentas"/>
 
 </div>
 
-| CATEGORIA    | TECNOLOGIAS                       |
-| :----------- | :-------------------------------- |
-| `LANG / 01`  | Python · Java · C                 |
-| `WEB / 02`   | HTML · CSS · Django               |
-| `DATA / 03`  | MySQL                             |
-| `TOOLS / 04` | Git · GitHub · Visual Studio Code |
-| `LAB / 05`   | ESP32 · Roblox Studio             |
+| ÁREA                  | TECNOLOGIAS E FERRAMENTAS         |
+| :-------------------- | :-------------------------------- |
+| `01 / CODE`           | Python · Java · C · PHP           |
+| `02 / WEB`            | HTML · CSS · JavaScript · Django  |
+| `03 / DATABASES`      | MySQL                             |
+| `04 / DEV TOOLS`      | Docker · Git · GitHub · VS Code   |
+| `05 / OTHER PROJECTS` | ESP32 · Roblox Studio · WordPress |
 
-<sub>Minha experiência varia de acordo com a tecnologia e o projeto. A lista representa ferramentas com as quais tenho contato, não uma declaração de domínio avançado.</sub>
+<sub>Essas são as tecnologias com que já trabalhei ou tive contato em projetos. Minha experiência prática varia entre elas.</sub>
 
-<sub>My experience varies by technology and project. This list represents tools I've worked with or explored, not a claim of advanced proficiency.</sub>
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DOCKER-181018?style=flat-square&logo=docker&logoColor=9B8CFF" alt="Docker"/>
+<img src="https://img.shields.io/badge/PYTHON-181018?style=flat-square&logo=python&logoColor=C77DFF" alt="Python"/>
+<img src="https://img.shields.io/badge/DJANGO-181018?style=flat-square&logo=django&logoColor=F04452" alt="Django"/>
+<img src="https://img.shields.io/badge/WEB_DEV-181018?style=flat-square&logo=html5&logoColor=FF647C" alt="Web development"/>
+
+</div>
 
 ---
 
 ### `03 // PROJETOS`
 
-*Experimentos em andamento. Sistemas em construção. Ideias tomando forma.*
+Alguns trabalhos de aula, outros que começaram como experimentos e outros que resolvi revisitar depois de aprender um pouco mais. Cada um representa uma etapa diferente da minha caminhada na programação.
 
-*Experiments in progress. Systems under construction. Ideas taking shape.*
-
----
-
-#### `PROJECT_001` — SIGA
+#### `01 — SIGA`
 
 **Sistema Integrado de Gestão Acadêmica**
 
-Sistema de gestão escolar desenvolvido para organizar informações de estudantes, professores, cursos, turmas, avaliações e notas.
+Um sistema para organizar informações acadêmicas, incluindo estudantes, professores, cursos, turmas, avaliações e notas. O projeto envolve modelagem de dados e desenvolvimento de funcionalidades para gestão escolar.
 
-O projeto explora modelagem de dados, relacionamentos entre entidades e desenvolvimento de funcionalidades para gestão acadêmica.
+`PYTHON` · `DJANGO` · `MYSQL` · `UML`
 
-`PYTHON` / `DJANGO` / `MYSQL` / `UML`
-
-[ACCESS REPOSITORY ↗](https://github.com/geovana4lves/Projeto-final-psw)
+[↗ VER REPOSITÓRIO](https://github.com/geovana4lves/Projeto-final-psw)
 
 ---
 
-#### `PROJECT_002` Paginário — Biblioteca Digital
+#### `02 — PAGINÁRIO`
 
-**sistema de biblioteca digital**
+**Biblioteca digital**
 
-O Paginário é um sistema de biblioteca digital desenvolvido com PHP, MySQL, HTML, CSS e JavaScript.
+Um projeto de biblioteca digital desenvolvido para trabalhar com organização de livros e informações em banco de dados, usando tecnologias web e PHP.
 
-O projeto explora modelagem de dados, relacionamentos entre entidades e desenvolvimento de funcionalidades para gestão acadêmica.
+`PHP` · `MYSQL` · `HTML` · `CSS` · `JAVASCRIPT`
 
-`PHP` / `HTML` / `MYSQL` / `CSS`/`JavaScript`
-
-[ACCESS REPOSITORY ↗](https://github.com/JohnMcArt/sitema-paginario)
+[↗ VER REPOSITÓRIO](https://github.com/JohnMcArt/sitema-paginario)
 
 ---
 
-#### `PROJECT_003` — PSW 
+#### `03 — PSW / REPOSITÓRIO DA TURMA`
 
-**PSW — Projetos da turma**
+**Projetos de Programação de Sistemas Web**
 
-Portal estático para reunir links de projetos desenvolvidos nas aulas de Programação de Sistemas Web.
+Um portal estático que reúne links de projetos desenvolvidos pela turma nas aulas de Programação de Sistemas Web. A proposta é facilitar a visualização e o acesso aos trabalhos em um só lugar.
 
+`HTML` · `CSS` · `JAVASCRIPT`
 
-`HTML` / `CSS` / `JAVASCRIPT`
+[↗ VER REPOSITÓRIO](https://github.com/JohnMcArt/repositoriopsw)
 
-[ACCESS REPOSITORY ↗](https://github.com/JohnMcArt/repositoriopsw)
+---
+
+#### `04 — FAN PORTFOLIO`
+
+**Um dos meus primeiros projetos, repensado**
+
+Esse portfólio começou como um dos meus primeiros trabalhos na programação, inspirado no universo visual da Melanie Martinez. Na reformulação, quis preservar essa identidade e melhorar a experiência, explorando uma interface mais limpa, referências ao design da Apple e elementos surreais que combinam com a artista.
+
+É também uma forma de perceber o quanto minha visão de desenvolvimento e design mudou desde as primeiras versões.
+
+`HTML` · `CSS` · `JAVASCRIPT` · `DESIGN`
+
+[↗ VER REPOSITÓRIO](https://github.com/JohnMcArt/portifoli-melanie)
 
 ---
 
-#### `PROJECT_004` — Fan Portfolio
-
-**Sistema Integrado de Gestão Acadêmica**
-
-O projeto nasceu como um dos meus primeiros trabalhos na programação e foi reformulado para combinar uma estética inspirada no design minimalista da Apple com os elementos lúdicos, sombrios e surreais que caracterizam o trabalho da artista.
-
-O redesign preserva a essência do projeto original, aprimorando a apresentação visual, a organização do conteúdo e os recursos de interação.
-
-`HTML` /
-
-[ACCESS REPOSITORY ↗](https://github.com/JohnMcArt/portifoli-melanie)
-
----
 <div align="center">
 
 <a href="https://github.com/JohnMcArt?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181414?style=for-the-badge&logo=github&logoColor=F04452&labelColor=181414" alt="Explorar todos os projetos"/>
+<img src="https://img.shields.io/badge/ALL_MY_PROJECTS-211127?style=for-the-badge&logo=github&logoColor=C77DFF&labelColor=211127" alt="Explorar todos os projetos"/>
 </a>
 
 </div>
@@ -139,17 +135,17 @@ O redesign preserva a essência do projeto original, aprimorando a apresentaçã
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JohnMcArt&show_icons=true&hide_border=true&bg_color=0D0B0B&title_color=F04452&icon_color=D71932&text_color=E8E0E0&ring_color=D71932&include_all_commits=true" height="165" alt="Estatísticas do GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JohnMcArt&show_icons=true&hide_border=true&bg_color=0D0B10&title_color=C77DFF&icon_color=F04452&text_color=E8E0E8&ring_color=9B3A91&include_all_commits=true" height="165" alt="Estatísticas do GitHub"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMcArt&layout=compact&hide_border=true&bg_color=0D0B0B&title_color=F04452&text_color=E8E0E0&langs_count=6" height="165" alt="Linguagens dos repositórios"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMcArt&layout=compact&hide_border=true&bg_color=0D0B10&title_color=C77DFF&text_color=E8E0E8&langs_count=6" height="165" alt="Linguagens mais presentes nos repositórios"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/JohnMcArt/JohnMcArt/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação vermelha da cobra no gráfico de contribuições"/>
+<img src="https://raw.githubusercontent.com/JohnMcArt/JohnMcArt/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação do gráfico de contribuições"/>
 
 </div>
 
-<sub>As estatísticas dependem da disponibilidade dos serviços externos e dos dados do GitHub. As linguagens detectadas nos repositórios não medem o domínio técnico.</sub>
+<sub>Os cartões dependem de serviços externos. A frequência de uso das linguagens nos repositórios não representa, por si só, o nível de domínio de cada tecnologia.</sub>
 
 ---
 
@@ -157,24 +153,24 @@ O redesign preserva a essência do projeto original, aprimorando a apresentaçã
 
 <div align="center">
 
-**CRIAR. EXPERIMENTAR. REINVENTAR.**
+**MAKING THINGS, LEARNING THINGS, STARTING OVER.**
 
-**CREATE. EXPERIMENT. REINVENT.**
+*Um projeto de cada vez.*
+
+<br/>
 
 <a href="https://github.com/JohnMcArt">
-  <img src="https://img.shields.io/badge/GITHUB-181414?style=for-the-badge&logo=github&logoColor=F04452" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/(não tenho perfil ainda)/">
-  <img src="https://img.shields.io/badge/LINKEDIN-181414?style=for-the-badge&logo=linkedin&logoColor=F04452" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/GITHUB-211127?style=for-the-badge&logo=github&logoColor=C77DFF" alt="GitHub"/>
 </a>
 <a href="mailto:bastosdasilvajoaopedro@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-181414?style=for-the-badge&logo=gmail&logoColor=F04452" alt="E-mail"/>
+<img src="https://img.shields.io/badge/EMAIL-211127?style=for-the-badge&logo=gmail&logoColor=F04452" alt="E-mail"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:090909,50:540B16,100:D71932" width="100%" alt="Rodapé vermelho e preto"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:08070A,35:24102D,70:741541,100:D71932" width="100%" alt="Rodapé em preto, roxo e vermelho"/>
 
-<sub>INDEPENDENT MINDSET // CONTINUOUS EVOLUTION</sub>
+<sub>JOHNMCART © · MADE WITH CURIOSITY AND A LITTLE CHAOS</sub>
 
 </div>
+
