@@ -85,6 +85,20 @@ O projeto explora modelagem de dados, relacionamentos entre entidades e desenvol
 
 ---
 
+#### `PROJECT_002` — Paginário — Biblioteca Digital
+
+**sistema de biblioteca digital **
+
+O Paginário é um sistema de biblioteca digital desenvolvido com PHP, MySQL, HTML, CSS e JavaScript.
+
+O projeto explora modelagem de dados, relacionamentos entre entidades e desenvolvimento de funcionalidades para gestão acadêmica.
+
+`PHP` / `HTML` / `MYSQL` / `CSS`/`JavaScript`
+
+[ACCESS REPOSITORY ↗](https://github.com/JohnMcArt/sitema-paginario)
+
+---
+
 <div align="center">
 
 <a href="https://github.com/JohnMcArt?tab=repositories">
