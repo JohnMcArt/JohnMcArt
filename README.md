@@ -22,7 +22,7 @@
 
 **PT-BR — Tecnologia, criatividade e experimentação.**
 
-Sou estudante de **Informática para Internet no IF Baiano**, interessado em desenvolvimento de software, sistemas web, bancos de dados, design digital e criação de soluções tecnológicas.
+Sou estudante na área de programação Dev/Full Stack, interessado em desenvolvimento de software, sistemas web, bancos de dados, design digital e criação de soluções tecnológicas.
 
 Vejo a programação como uma ferramenta para transformar ideias em experiências concretas. Gosto de experimentar, investigar como os sistemas funcionam e desenvolver projetos que combinem lógica, funcionalidade e identidade visual.
 
@@ -33,7 +33,7 @@ Vejo a programação como uma ferramenta para transformar ideias em experiência
 
 **EN — Technology, creativity, and experimentation.**
 
-I'm an Internet Computing student at IF Baiano, Brazil, interested in software development, web systems, databases, digital design, and creative technology.
+I am a Dev/Full Stack programming student interested in software development, web systems, databases, digital design, and creating technological solutions.
 
 I see programming as a way to turn ideas into practical experiences. I enjoy experimenting, understanding how systems work, and building projects that combine logic, functionality, and visual identity.
 
