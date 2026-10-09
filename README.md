@@ -99,6 +99,32 @@ O projeto explora modelagem de dados, relacionamentos entre entidades e desenvol
 
 ---
 
+#### `PROJECT_003` — PSW 
+
+**PSW — Projetos da turma**
+
+Portal estático para reunir links de projetos desenvolvidos nas aulas de Programação de Sistemas Web.
+
+
+`HTML` / `CSS` / `JAVASCRIPT`
+
+[ACCESS REPOSITORY ↗](https://github.com/JohnMcArt/repositoriopsw)
+
+---
+
+#### `PROJECT_004` — Fan Portfolio
+
+**Sistema Integrado de Gestão Acadêmica**
+
+O projeto nasceu como um dos meus primeiros trabalhos na programação e foi reformulado para combinar uma estética inspirada no design minimalista da Apple com os elementos lúdicos, sombrios e surreais que caracterizam o trabalho da artista.
+
+O redesign preserva a essência do projeto original, aprimorando a apresentação visual, a organização do conteúdo e os recursos de interação.
+
+`HTML` /
+
+[ACCESS REPOSITORY ↗](https://github.com/JohnMcArt/portifoli-melanie)
+
+---
 <div align="center">
 
 <a href="https://github.com/JohnMcArt?tab=repositories">
