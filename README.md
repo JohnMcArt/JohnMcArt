@@ -87,7 +87,7 @@ O projeto explora modelagem de dados, relacionamentos entre entidades e desenvol
 
 #### `PROJECT_002` Paginário — Biblioteca Digital
 
-**sistema de biblioteca digital **
+**sistema de biblioteca digital**
 
 O Paginário é um sistema de biblioteca digital desenvolvido com PHP, MySQL, HTML, CSS e JavaScript.
 
