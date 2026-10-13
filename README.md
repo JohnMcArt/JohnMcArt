@@ -141,67 +141,170 @@ Most of what I learn comes from actually making projects, breaking things, fixin
 
 ### `03 // PROJETOS`
 
-Alguns trabalhos de aula, outros que começaram como experimentos e outros que resolvi revisitar depois de aprender um pouco mais. Cada um representa uma etapa diferente da minha caminhada na programação.
+Projetos de aula, ideias que viraram experimentos e trabalhos que fui melhorando ao longo do tempo. Cada um tem uma proposta diferente — e é isso que gosto de explorar.
 
-#### `01 — SIGA`
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECTS-151018?style=for-the-badge&logo=github&logoColor=C77DFF&labelColor=151018" alt="Projects"/>
+<img src="https://img.shields.io/badge/IN_PROGRESS-A71942?style=for-the-badge&logoColor=FFFFFF&labelColor=151018" alt="Em desenvolvimento"/>
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-SIGA-24102D?style=for-the-badge&logo=googlescholar&logoColor=C77DFF" alt="SIGA"/>
+
+### 🎓 SIGA
 
 **Sistema Integrado de Gestão Acadêmica**
 
-Um sistema para organizar informações acadêmicas, incluindo estudantes, professores, cursos, turmas, avaliações e notas. O projeto envolve modelagem de dados e desenvolvimento de funcionalidades para gestão escolar.
+</div>
+
+Um sistema para organizar informações acadêmicas, incluindo estudantes, professores, cursos, turmas, avaliações e notas.
+
+O projeto envolve modelagem de dados e desenvolvimento de funcionalidades para gestão escolar.
 
 `PYTHON` · `DJANGO` · `MYSQL` · `UML`
 
-[↗ VER REPOSITÓRIO](https://github.com/geovana4lves/Projeto-final-psw)
+[↗ Ver repositório](https://github.com/geovana4lves/Projeto-final-psw)
 
----
+</td>
+<td width="50%" valign="top">
 
-#### `02 — PAGINÁRIO`
+<div align="center">
+
+<img src="https://img.shields.io/badge/02-PAGIN%C3%81RIO-24102D?style=for-the-badge&logo=bookstack&logoColor=C77DFF" alt="Paginário"/>
+
+### 📚 Paginário
 
 **Biblioteca digital**
 
-Um projeto de biblioteca digital desenvolvido para trabalhar com organização de livros e informações em banco de dados, usando tecnologias web e PHP.
+</div>
+
+Um projeto de biblioteca digital voltado à organização de livros e informações em banco de dados, utilizando tecnologias web e PHP.
 
 `PHP` · `MYSQL` · `HTML` · `CSS` · `JAVASCRIPT`
 
-[↗ VER REPOSITÓRIO](https://github.com/JohnMcArt/sitema-paginario)
+[↗ Ver repositório](https://github.com/JohnMcArt/sitema-paginario)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-#### `03 — PSW / REPOSITÓRIO DA TURMA`
+<div align="center">
 
-**Projetos de Programação de Sistemas Web**
+<img src="https://img.shields.io/badge/03-PSW-24102D?style=for-the-badge&logo=html5&logoColor=F04452" alt="PSW"/>
 
-Um portal estático que reúne links de projetos desenvolvidos pela turma nas aulas de Programação de Sistemas Web. A proposta é facilitar a visualização e o acesso aos trabalhos em um só lugar.
+### 💻 PSW
+
+**Repositório da turma**
+
+</div>
+
+Um portal estático que reúne links de projetos desenvolvidos pela turma nas aulas de Programação de Sistemas Web. A ideia é facilitar a visualização e o acesso aos trabalhos em um só lugar.
 
 `HTML` · `CSS` · `JAVASCRIPT`
 
-[↗ VER REPOSITÓRIO](https://github.com/JohnMcArt/repositoriopsw)
+[↗ Ver repositório](https://github.com/JohnMcArt/repositoriopsw)
 
----
+</td>
+<td width="50%" valign="top">
 
-#### `04 — FAN PORTFOLIO`
+<div align="center">
+
+<img src="https://img.shields.io/badge/04-FAN_PORTFOLIO-24102D?style=for-the-badge&logo=artstation&logoColor=C77DFF" alt="Fan Portfolio"/>
+
+### 🎨 Fan Portfolio
 
 **Um dos meus primeiros projetos, repensado**
 
-Esse portfólio começou como um dos meus primeiros trabalhos na programação, inspirado no universo visual da Melanie Martinez. Na reformulação, quis preservar essa identidade e melhorar a experiência, explorando uma interface mais limpa, referências ao design da Apple e elementos surreais que combinam com a artista.
+</div>
 
-É também uma forma de perceber o quanto minha visão de desenvolvimento e design mudou desde as primeiras versões.
+Um portfólio inspirado no universo visual da Melanie Martinez. Na reformulação, quis preservar essa identidade e melhorar a experiência, explorando uma interface mais limpa, referências ao design da Apple e elementos surreais que combinam com a artista.
 
 `HTML` · `CSS` · `JAVASCRIPT` · `DESIGN`
 
-[↗ VER REPOSITÓRIO](https://github.com/JohnMcArt/portifoli-melanie)
+[↗ Ver repositório](https://github.com/JohnMcArt/portifoli-melanie)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/05-A11Y_PARA_TODOS-24102D?style=for-the-badge&logo=accessibility&logoColor=C77DFF" alt="A11Y para Todos"/>
+
+### ♿ A11Y para Todos
+
+**Acessibilidade Digital e Web para Todos**
+
+</div>
+
+Uma experiência educativa e interativa sobre acessibilidade digital, inclusão e construção de uma Web que possa ser utilizada por mais pessoas.
+
+O projeto aborda barreiras que dificultam o acesso à internet, apresentando o tema por meio de recursos educativos e atividades interativas.
+
+<details>
+<summary>O que tem no projeto?</summary>
+
+- Site educativo e interativo
+- Quiz e jogo educativo
+- Padlet
+- Orientações sobre WCAG
+- VLibras
+
+</details>
+
+`ACESSIBILIDADE` · `WEB` · `INCLUSÃO` · `WCAG`
+
+[↗ Ver repositório](https://github.com/JohnMcArt/Acessibilidade-Digital-e-Web-para-Todos)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/06-GUARDI%C3%95ES_DO_ECA-5A153B?style=for-the-badge&logo=scratch&logoColor=FFFFFF" alt="Guardiões do ECA"/>
+
+### 🛡️ Guardiões do ECA
+
+**Direitos, proteção e cidadania**
+
+</div>
+
+Um jogo educativo desenvolvido no Scratch no âmbito do Projeto Integrador I do curso Técnico em Informática para Internet do IF Baiano, Campus Guanambi, em 2025.
+
+A proposta é aproximar crianças e adolescentes dos direitos garantidos pelo Estatuto da Criança e do Adolescente (ECA), utilizando situações interativas para estimular a reflexão, a empatia e a tomada de decisões.
+
+`SCRATCH` · `EDUCAÇÃO` · `CIDADANIA` · `ECA`
+
+[↗ Ver repositório](https://github.com/JohnMcArt/Guardioes-ECA)
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/06_PROJECTS-151018?style=for-the-badge&logo=github&logoColor=C77DFF" alt="Seis projetos apresentados"/>
+
+<br/><br/>
+
 <a href="https://github.com/JohnMcArt?tab=repositories">
-<img src="https://img.shields.io/badge/ALL_MY_PROJECTS-211127?style=for-the-badge&logo=github&logoColor=C77DFF&labelColor=211127" alt="Explorar todos os projetos"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-211127?style=for-the-badge&logo=github&logoColor=C77DFF&labelColor=211127" alt="Explorar todos os projetos"/>
 </a>
 
 </div>
-
----
 
 ### `04 // GITHUB ACTIVITY`
 
