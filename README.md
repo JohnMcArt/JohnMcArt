@@ -40,30 +40,102 @@ Most of what I learn comes from actually making projects, breaking things, fixin
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,java,c,php,html,css,js,mysql,docker,git,github,vscode&theme=dark&perline=7" alt="Tecnologias de desenvolvimento e ferramentas"/>
+**`01 / PROGRAMMING LANGUAGES`**
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,lua,js,ts,go,rust&theme=dark&perline=10" alt="Python, Java, C, C++, C sharp, Lua, JavaScript, TypeScript, Go e Rust"/>
 
-| ÁREA                  | TECNOLOGIAS E FERRAMENTAS         |
-| :-------------------- | :-------------------------------- |
-| `01 / CODE`           | Python · Java · C · PHP           |
-| `02 / WEB`            | HTML · CSS · JavaScript · Django  |
-| `03 / DATABASES`      | MySQL                             |
-| `04 / DEV TOOLS`      | Docker · Git · GitHub · VS Code   |
-| `05 / OTHER PROJECTS` | ESP32 · Roblox Studio · WordPress |
+<img src="https://skillicons.dev/icons?i=kotlin,swift,php,ruby,dart,elixir,scala,r&theme=dark&perline=8" alt="Kotlin, Swift, PHP, Ruby, Dart, Elixir, Scala e R"/>
 
-<sub>Essas são as tecnologias com que já trabalhei ou tive contato em projetos. Minha experiência prática varia entre elas.</sub>
+<img src="https://skillicons.dev/icons?i=bash,powershell,perl,haskell&theme=dark&perline=4" alt="Bash, PowerShell, Perl e Haskell"/>
 
 <br/>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/DOCKER-181018?style=flat-square&logo=docker&logoColor=9B8CFF" alt="Docker"/>
-<img src="https://img.shields.io/badge/PYTHON-181018?style=flat-square&logo=python&logoColor=C77DFF" alt="Python"/>
-<img src="https://img.shields.io/badge/DJANGO-181018?style=flat-square&logo=django&logoColor=F04452" alt="Django"/>
-<img src="https://img.shields.io/badge/WEB_DEV-181018?style=flat-square&logo=html5&logoColor=FF647C" alt="Web development"/>
+<img src="https://img.shields.io/badge/LUA-181018?style=flat-square&logo=lua&logoColor=9B8CFF" alt="Lua"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-181018?style=flat-square&logo=typescript&logoColor=9B8CFF" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/RUST-181018?style=flat-square&logo=rust&logoColor=C77DFF" alt="Rust"/>
+<img src="https://img.shields.io/badge/POWERSHELL-181018?style=flat-square&logo=powershell&logoColor=9B8CFF" alt="PowerShell"/>
 
 </div>
+
+| CATEGORIA | TECNOLOGIAS |
+|:--|:--|
+| `LANG / 01` | Lua · JavaScript · TypeScript · Python |
+| `LANG / 02` | Java · C · C++ · C# |
+| `LANG / 03` | Go · Rust · Kotlin · Swift |
+| `LANG / 04` | PHP · Ruby · Dart · Elixir · Scala · R |
+| `LANG / 05` | Bash · PowerShell · Perl · Haskell |
+
+<div align="center">
+
+---
+
+**`02 / WEB DEVELOPMENT`**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,django,wordpress&theme=dark&perline=7" alt="HTML, CSS, JavaScript, TypeScript, PHP, Django e WordPress"/>
+
+</div>
+
+| CATEGORIA | TECNOLOGIAS |
+|:--|:--|
+| `FRONTEND` | HTML · CSS · JavaScript · TypeScript |
+| `BACKEND / WEB` | Python · Django · PHP |
+| `CMS` | WordPress |
+
+<div align="center">
+
+---
+
+**`03 / DATABASES & QUERY`**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark&perline=3" alt="MySQL, PostgreSQL e SQLite"/>
+
+</div>
+
+| CATEGORIA | TECNOLOGIAS |
+|:--|:--|
+| `DATABASES` | MySQL · PostgreSQL · SQLite |
+| `QUERY` | SQL |
+
+<div align="center">
+
+---
+
+**`04 / DEV TOOLS & ENVIRONMENTS`**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,arduino&theme=dark&perline=6" alt="Docker, Git, GitHub, Visual Studio Code, Visual Studio e Arduino"/>
+
+</div>
+
+| CATEGORIA | FERRAMENTAS |
+|:--|:--|
+| `CONTAINERS` | Docker |
+| `VERSION CONTROL` | Git · GitHub |
+| `IDEs / EDITORS` | Visual Studio Code · Visual Studio |
+| `HARDWARE` | ESP32 · Arduino |
+
+<div align="center">
+
+---
+
+**`05 / CREATIVE & OTHER PROJECTS`**
+
+<img src="https://skillicons.dev/icons?i=robloxstudio,wordpress&theme=dark&perline=2" alt="Roblox Studio e WordPress"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ESP32-181018?style=flat-square&logo=espressif&logoColor=C77DFF" alt="ESP32"/>
+<img src="https://img.shields.io/badge/ROBLOX_STUDIO-181018?style=flat-square&logo=roblox&logoColor=F04452" alt="Roblox Studio"/>
+<img src="https://img.shields.io/badge/WORDPRESS-181018?style=flat-square&logo=wordpress&logoColor=C77DFF" alt="WordPress"/>
+
+</div>
+
+| CATEGORIA | TECNOLOGIAS E FERRAMENTAS |
+|:--|:--|
+| `CREATIVE DEV` | Roblox Studio |
+| `IOT / HARDWARE` | ESP32 · Arduino |
+| `WEB PUBLISHING` | WordPress |
+
+<sub>Este catálogo reúne linguagens, frameworks e ferramentas com diferentes níveis de experiência. A presença de uma tecnologia não significa domínio avançado nem uso profissional de todas elas.</sub>
 
 ---
 
@@ -173,4 +245,3 @@ Esse portfólio começou como um dos meus primeiros trabalhos na programação, 
 <sub>JOHNMCART © · MADE WITH CURIOSITY AND A LITTLE CHAOS</sub>
 
 </div>
-
