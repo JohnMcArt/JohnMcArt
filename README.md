@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:090909,50:26070B,100:8F1021&text=JohnMcArt&fontColor=F5F0EE&fontSize=60&fontAlignY=45&animation=fadeIn&stroke=D71932&strokeWidth=1" width="100%" />
-
-<br>
-
-<br>
-
- <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:08070A,35:1B0B24,65:531044,82:97152E,100:D71932&text=JohnMcArt&fontColor=F8EFF8&fontSize=58&fontAlignY=43&desc=CODE%20%2F%2F%20DESIGN%20%2F%2F%20A%20LITTLE%20CHAOS&descSize=13&descAlignY=68&animation=twinkling" width="100%" alt="JohnMcArt — identidade visual em preto, roxo e vermelho"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=I+MAKE+THINGS+WORK.+AND+LOOK+GOOD.;CODE%2C+DESIGN+AND+A+BIT+OF+CHAOS.;APRENDENDO+NA+PR%C3%81TICA.;STILL+FIGURING+THINGS+OUT." alt="Frases animadas"/>
 
@@ -42,9 +36,9 @@ I'm looking for opportunities to contribute, learn from a team and keep growing 
 
 ### `02 // ARSENAL TÉCNICO`
 
-<div align="center">
-
 **`01 / FRONT-END — FOCO PRINCIPAL`**
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark&perline=4" alt="HTML, CSS, JavaScript e TypeScript"/>
 
@@ -55,11 +49,11 @@ I'm looking for opportunities to contribute, learn from a team and keep growing 
 | `INTERFACES` | HTML5 · CSS3 · JavaScript · TypeScript |
 | `PRÁTICAS` | Design responsivo · Acessibilidade web · Usabilidade · Organização de componentes |
 
-<div align="center">
-
 ---
 
 **`02 / BACK-END & BANCO DE DADOS`**
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,django,php,mysql&theme=dark&perline=4" alt="Python, Django, PHP e MySQL"/>
 
@@ -71,11 +65,11 @@ I'm looking for opportunities to contribute, learn from a team and keep growing 
 | `BANCO DE DADOS` | MySQL · SQLite · SQL |
 | `CONCEITOS` | CRUD · Modelagem de dados · Relacionamentos · Integração entre aplicação e banco |
 
-<div align="center">
-
 ---
 
 **`03 / FERRAMENTAS & FLUXO DE TRABALHO`**
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark&perline=4" alt="Git, GitHub, Visual Studio Code e Visual Studio"/>
 
@@ -88,11 +82,11 @@ I'm looking for opportunities to contribute, learn from a team and keep growing 
 | `PROTOTIPAGEM E MODELAGEM` | UML · Diagramas de classes |
 | `MÉTODOS E PRÁTICAS` | Desenvolvimento incremental · Testes e depuração · Organização e documentação de projetos |
 
-<div align="center">
-
 ---
 
 **`04 / PROJETOS CRIATIVOS & EXPERIMENTAIS`**
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=robloxstudio,wordpress,arduino&theme=dark&perline=3" alt="Roblox Studio, WordPress e Arduino"/>
 
@@ -110,12 +104,12 @@ I'm looking for opportunities to contribute, learn from a team and keep growing 
 
 ### `03 // PROJETOS`
 
-Projetos de aula, ideias que viraram experimentos e trabalhos que fui melhorando ao longo do tempo. Cada um tem uma proposta diferente — e é isso que gosto de explorar.
+Projetos acadêmicos e pessoais que representam minha experiência prática com desenvolvimento web, acessibilidade e tecnologia educacional.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECTS-151018?style=for-the-badge&logo=github&logoColor=C77DFF&labelColor=151018" alt="Projects"/>
-<img src="https://img.shields.io/badge/IN_PROGRESS-A71942?style=for-the-badge&logoColor=FFFFFF&labelColor=151018" alt="Em desenvolvimento"/>
+<img src="https://img.shields.io/badge/PROJECTS-151018?style=for-the-badge&logo=github&logoColor=C77DFF&labelColor=151018" alt="Projetos"/>
+<img src="https://img.shields.io/badge/IN_PROGRESS-A71942?style=for-the-badge&logoColor=FFFFFF&labelColor=151018" alt="Projetos em desenvolvimento"/>
 
 </div>
 
@@ -125,15 +119,11 @@ Projetos de aula, ideias que viraram experimentos e trabalhos que fui melhorando
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/01-SIGA-24102D?style=for-the-badge&logo=googlescholar&logoColor=C77DFF" alt="SIGA"/>
 
 ### 🎓 SIGA
 
 **Sistema Integrado de Gestão Acadêmica**
-
-</div>
 
 Aplicação voltada à organização de informações acadêmicas, como estudantes, professores, cursos, turmas, avaliações e notas.
 
@@ -146,15 +136,11 @@ O projeto reúne modelagem de dados e funcionalidades de gestão escolar, conect
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/02-PAGIN%C3%81RIO-24102D?style=for-the-badge&logo=bookstack&logoColor=C77DFF" alt="Paginário"/>
 
 ### 📚 Paginário
 
 **Biblioteca digital**
-
-</div>
 
 Biblioteca digital para organizar livros e informações em banco de dados, com uma interface web para facilitar a navegação e o acesso ao conteúdo.
 
@@ -167,27 +153,11 @@ Biblioteca digital para organizar livros e informações em banco de dados, com 
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/03-A11Y_PARA_TODOS-24102D?style=for-the-badge&logo=accessibility&logoColor=C77DFF" alt="A11Y para Todos"/>
 
 ### ♿ A11Y para Todos
 
 **Acessibilidade Digital e Web para Todos**
-
-</div>
 
 Uma experiência educativa e interativa sobre acessibilidade digital, inclusão e construção de uma Web que possa ser utilizada por mais pessoas.
 
@@ -211,15 +181,11 @@ O projeto aborda barreiras que dificultam o acesso à internet, apresentando o t
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/04-GUARDI%C3%95ES_DO_ECA-5A153B?style=for-the-badge&logo=scratch&logoColor=FFFFFF" alt="Guardiões do ECA"/>
 
 ### 🛡️ Guardiões do ECA
 
 **Direitos, proteção e cidadania**
-
-</div>
 
 Um jogo educativo desenvolvido no Scratch no âmbito do Projeto Integrador I do curso Técnico em Informática para Internet do IF Baiano, Campus Guanambi, em 2025.
 
@@ -237,7 +203,7 @@ A proposta é aproximar crianças e adolescentes dos direitos garantidos pelo Es
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/06_PROJECTS-151018?style=for-the-badge&logo=github&logoColor=C77DFF" alt="Seis projetos apresentados"/>
+<img src="https://img.shields.io/badge/04_FEATURED_PROJECTS-151018?style=for-the-badge&logo=github&logoColor=C77DFF" alt="Quatro projetos em destaque"/>
 
 <br/><br/>
 
@@ -246,6 +212,8 @@ A proposta é aproximar crianças e adolescentes dos direitos garantidos pelo Es
 </a>
 
 </div>
+
+---
 
 ### `04 // GITHUB ACTIVITY`
 
@@ -267,13 +235,11 @@ A proposta é aproximar crianças e adolescentes dos direitos garantidos pelo Es
 
 ### `05 // CONEXÕES`
 
-<div align="center">
-
 **MAKING THINGS, LEARNING THINGS, STARTING OVER.**
 
 *Um projeto de cada vez.*
 
-<br/>
+<div align="left">
 
 <a href="https://github.com/JohnMcArt">
 <img src="https://img.shields.io/badge/GITHUB-211127?style=for-the-badge&logo=github&logoColor=C77DFF" alt="GitHub"/>
@@ -282,13 +248,4 @@ A proposta é aproximar crianças e adolescentes dos direitos garantidos pelo Es
 <img src="https://img.shields.io/badge/EMAIL-211127?style=for-the-badge&logo=gmail&logoColor=F04452" alt="E-mail"/>
 </a>
 
-<br/><br/>
-
-
-## 📬 Contato
-
-Estou aberto a oportunidades de estágio e primeiro emprego, especialmente em desenvolvimento web, Front-end e áreas relacionadas à tecnologia.
-
-<p align="left">
-  <a href="https://github.com/JohnMcArt">
-    <img src="https://img.shields.io/badge/GitHub-JohnMcArt-090909?style=for-the-badge&logo=github&logoColor=white" alt="
+</div>
