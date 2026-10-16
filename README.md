@@ -20,19 +20,17 @@
 
 ### `01 // SOBRE MIM`
 
-Oi! Sou o **JohnMcArt**, estudante e desenvolvedor em formação na área de Informática para Internet. Gosto de programação, mas também de tudo que envolve a parte visual de um projeto: identidade, organização, experiência de quem usa e os pequenos detalhes que fazem diferença.
+Oi! Sou o **JohnMcArt**, estudante de Informática para Internet e desenvolvedor com foco em **Front-end**. Gosto de transformar ideias em interfaces funcionais, responsivas e visualmente consistentes, valorizando usabilidade, acessibilidade e atenção aos detalhes.
 
-Tenho explorado principalmente desenvolvimento web, sistemas com banco de dados e aplicações para resolver problemas do dia a dia. Também gosto de pegar projetos antigos e dar uma cara nova para eles.
+Também tenho conhecimentos práticos de **Back-end e bancos de dados**, o que me permite compreender o funcionamento da aplicação além da interface: regras de negócio, integração com dados e estruturação de sistemas web. Desenvolvo meus conhecimentos por meio de projetos, testes e melhoria contínua.
 
-Ainda tenho muita coisa para aprender — e bastante coisa que quero tirar do papel. Por enquanto, meu jeito de evoluir é esse: criar, testar, errar, ajustar e tentar de novo.
+Busco oportunidades para contribuir com projetos reais, aprender com outras pessoas da área e evoluir como desenvolvedor.
 
 **A little bit about me, in English:**
 
-I'm a developer in progress from Brazil, interested in web development, software, databases and digital design. I enjoy building useful things and giving them a visual identity of their own.
+I'm a Brazilian student and developer focused on **Front-end development**, with practical knowledge of back-end technologies and databases. I enjoy building responsive, accessible interfaces and understanding how the full application works, from the user experience to data management.
 
-Most of what I learn comes from actually making projects, breaking things, fixing them and trying new ideas.
-
-*Not an expert at everything. Just curious enough to keep building.*
+I'm looking for opportunities to contribute, learn from a team and keep growing through real-world projects.
 
 ---
 
@@ -40,102 +38,67 @@ Most of what I learn comes from actually making projects, breaking things, fixin
 
 <div align="center">
 
-**`01 / PROGRAMMING LANGUAGES`**
+**`01 / FRONT-END — FOCO PRINCIPAL`**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,lua,js,ts,go,rust&theme=dark&perline=10" alt="Python, Java, C, C++, C sharp, Lua, JavaScript, TypeScript, Go e Rust"/>
-
-<img src="https://skillicons.dev/icons?i=kotlin,swift,php,ruby,dart,elixir,scala,r&theme=dark&perline=8" alt="Kotlin, Swift, PHP, Ruby, Dart, Elixir, Scala e R"/>
-
-<img src="https://skillicons.dev/icons?i=bash,powershell,perl,haskell&theme=dark&perline=4" alt="Bash, PowerShell, Perl e Haskell"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/LUA-181018?style=flat-square&logo=lua&logoColor=9B8CFF" alt="Lua"/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-181018?style=flat-square&logo=typescript&logoColor=9B8CFF" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/RUST-181018?style=flat-square&logo=rust&logoColor=C77DFF" alt="Rust"/>
-<img src="https://img.shields.io/badge/POWERSHELL-181018?style=flat-square&logo=powershell&logoColor=9B8CFF" alt="PowerShell"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark&perline=4" alt="HTML, CSS, JavaScript e TypeScript"/>
 
 </div>
 
 | CATEGORIA | TECNOLOGIAS |
 |:--|:--|
-| `LANG / 01` | Lua · JavaScript · TypeScript · Python |
-| `LANG / 02` | Java · C · C++ · C# |
-| `LANG / 03` | Go · Rust · Kotlin · Swift |
-| `LANG / 04` | PHP · Ruby · Dart · Elixir · Scala · R |
-| `LANG / 05` | Bash · PowerShell · Perl · Haskell |
+| `INTERFACES` | HTML5 · CSS3 · JavaScript · TypeScript |
+| `PRÁTICAS` | Design responsivo · Acessibilidade web · Usabilidade · Organização de componentes |
 
 <div align="center">
 
 ---
 
-**`02 / WEB DEVELOPMENT`**
+**`02 / BACK-END & BANCO DE DADOS`**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,django,wordpress&theme=dark&perline=7" alt="HTML, CSS, JavaScript, TypeScript, PHP, Django e WordPress"/>
+<img src="https://skillicons.dev/icons?i=python,django,php,mysql&theme=dark&perline=4" alt="Python, Django, PHP e MySQL"/>
 
 </div>
 
 | CATEGORIA | TECNOLOGIAS |
 |:--|:--|
-| `FRONTEND` | HTML · CSS · JavaScript · TypeScript |
-| `BACKEND / WEB` | Python · Django · PHP |
-| `CMS` | WordPress |
+| `BACK-END` | Python · Django · PHP |
+| `BANCO DE DADOS` | MySQL · SQLite · SQL |
+| `CONCEITOS` | CRUD · Modelagem de dados · Relacionamentos · Integração entre aplicação e banco |
 
 <div align="center">
 
 ---
 
-**`03 / DATABASES & QUERY`**
+**`03 / FERRAMENTAS & FLUXO DE TRABALHO`**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark&perline=3" alt="MySQL, PostgreSQL e SQLite"/>
-
-</div>
-
-| CATEGORIA | TECNOLOGIAS |
-|:--|:--|
-| `DATABASES` | MySQL · PostgreSQL · SQLite |
-| `QUERY` | SQL |
-
-<div align="center">
-
----
-
-**`04 / DEV TOOLS & ENVIRONMENTS`**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,arduino&theme=dark&perline=6" alt="Docker, Git, GitHub, Visual Studio Code, Visual Studio e Arduino"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark&perline=4" alt="Git, GitHub, Visual Studio Code e Visual Studio"/>
 
 </div>
 
 | CATEGORIA | FERRAMENTAS |
 |:--|:--|
-| `CONTAINERS` | Docker |
-| `VERSION CONTROL` | Git · GitHub |
-| `IDEs / EDITORS` | Visual Studio Code · Visual Studio |
-| `HARDWARE` | ESP32 · Arduino |
+| `VERSIONAMENTO` | Git · GitHub |
+| `DESENVOLVIMENTO` | Visual Studio Code · Visual Studio |
+| `PROTOTIPAGEM E MODELAGEM` | UML · Diagramas de classes |
+| `MÉTODOS E PRÁTICAS` | Desenvolvimento incremental · Testes e depuração · Organização e documentação de projetos |
 
 <div align="center">
 
 ---
 
-**`05 / CREATIVE & OTHER PROJECTS`**
+**`04 / PROJETOS CRIATIVOS & EXPERIMENTAIS`**
 
-<img src="https://skillicons.dev/icons?i=robloxstudio,wordpress&theme=dark&perline=2" alt="Roblox Studio e WordPress"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/ESP32-181018?style=flat-square&logo=espressif&logoColor=C77DFF" alt="ESP32"/>
-<img src="https://img.shields.io/badge/ROBLOX_STUDIO-181018?style=flat-square&logo=roblox&logoColor=F04452" alt="Roblox Studio"/>
-<img src="https://img.shields.io/badge/WORDPRESS-181018?style=flat-square&logo=wordpress&logoColor=C77DFF" alt="WordPress"/>
+<img src="https://skillicons.dev/icons?i=robloxstudio,wordpress,arduino&theme=dark&perline=3" alt="Roblox Studio, WordPress e Arduino"/>
 
 </div>
 
-| CATEGORIA | TECNOLOGIAS E FERRAMENTAS |
+| CATEGORIA | FERRAMENTAS |
 |:--|:--|
-| `CREATIVE DEV` | Roblox Studio |
+| `CRIAÇÃO INTERATIVA` | Roblox Studio · Scratch |
+| `PUBLICAÇÃO WEB` | WordPress |
 | `IOT / HARDWARE` | ESP32 · Arduino |
-| `WEB PUBLISHING` | WordPress |
 
-<sub>Este catálogo reúne linguagens, frameworks e ferramentas com diferentes níveis de experiência. A presença de uma tecnologia não significa domínio avançado nem uso profissional de todas elas.</sub>
+<sub>As tecnologias listadas refletem ferramentas e conhecimentos explorados em estudos e projetos, com níveis de experiência que variam conforme a tecnologia.</sub>
 
 ---
 
@@ -166,9 +129,9 @@ Projetos de aula, ideias que viraram experimentos e trabalhos que fui melhorando
 
 </div>
 
-Um sistema para organizar informações acadêmicas, incluindo estudantes, professores, cursos, turmas, avaliações e notas.
+Aplicação voltada à organização de informações acadêmicas, como estudantes, professores, cursos, turmas, avaliações e notas.
 
-O projeto envolve modelagem de dados e desenvolvimento de funcionalidades para gestão escolar.
+O projeto reúne modelagem de dados e funcionalidades de gestão escolar, conectando a interface às informações armazenadas.
 
 `PYTHON` · `DJANGO` · `MYSQL` · `UML`
 
@@ -187,9 +150,9 @@ O projeto envolve modelagem de dados e desenvolvimento de funcionalidades para g
 
 </div>
 
-Um projeto de biblioteca digital voltado à organização de livros e informações em banco de dados, utilizando tecnologias web e PHP.
+Biblioteca digital para organizar livros e informações em banco de dados, com uma interface web para facilitar a navegação e o acesso ao conteúdo.
 
-`PHP` · `MYSQL` · `HTML` · `CSS` · `JAVASCRIPT`
+`PHP` · `MYSQL` · `HTML` · `CSS`
 
 [↗ Ver repositório](https://github.com/JohnMcArt/sitema-paginario)
 
@@ -208,7 +171,7 @@ Um projeto de biblioteca digital voltado à organização de livros e informaç�
 
 </div>
 
-Um portal estático que reúne links de projetos desenvolvidos pela turma nas aulas de Programação de Sistemas Web. A ideia é facilitar a visualização e o acesso aos trabalhos em um só lugar.
+Portal estático que reúne projetos desenvolvidos pela turma nas aulas de Programação de Sistemas Web, facilitando a descoberta e o acesso aos trabalhos em um só lugar.
 
 `HTML` · `CSS` · `JAVASCRIPT`
 
@@ -227,9 +190,9 @@ Um portal estático que reúne links de projetos desenvolvidos pela turma nas au
 
 </div>
 
-Um portfólio inspirado no universo visual da Melanie Martinez. Na reformulação, quis preservar essa identidade e melhorar a experiência, explorando uma interface mais limpa, referências ao design da Apple e elementos surreais que combinam com a artista.
+Portfólio inspirado no universo visual de Melanie Martinez. A reformulação busca preservar a identidade da artista e aprimorar a experiência com uma interface mais limpa, referências ao design da Apple e elementos surreais.
 
-`HTML` · `CSS` · `JAVASCRIPT` · `DESIGN`
+`HTML` · `CSS` · `JAVASCRIPT` · `UI DESIGN`
 
 [↗ Ver repositório](https://github.com/JohnMcArt/portifoli-melanie)
 
@@ -342,9 +305,3 @@ A proposta é aproximar crianças e adolescentes dos direitos garantidos pelo Es
 </a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:08070A,35:24102D,70:741541,100:D71932" width="100%" alt="Rodapé em preto, roxo e vermelho"/>
-
-<sub>JOHNMCART © · MADE WITH CURIOSITY AND A LITTLE CHAOS</sub>
-
-</div>
