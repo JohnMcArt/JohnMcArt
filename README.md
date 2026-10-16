@@ -1,6 +1,12 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:08070A,35:1B0B24,65:531044,82:97152E,100:D71932&text=JohnMcArt&fontColor=F8EFF8&fontSize=58&fontAlignY=43&desc=CODE%20%2F%2F%20DESIGN%20%2F%2F%20A%20LITTLE%20CHAOS&descSize=13&descAlignY=68&animation=twinkling" width="100%" alt="JohnMcArt — identidade visual em preto, roxo e vermelho"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:090909,50:26070B,100:8F1021&text=JohnMcArt&fontColor=F5F0EE&fontSize=60&fontAlignY=45&animation=fadeIn&stroke=D71932&strokeWidth=1" width="100%" />
+
+<br>
+
+<br>
+
+ <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=I+MAKE+THINGS+WORK.+AND+LOOK+GOOD.;CODE%2C+DESIGN+AND+A+BIT+OF+CHAOS.;APRENDENDO+NA+PR%C3%81TICA.;STILL+FIGURING+THINGS+OUT." alt="Frases animadas"/>
 
@@ -163,38 +169,10 @@ Biblioteca digital para organizar livros e informações em banco de dados, com 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/03-PSW-24102D?style=for-the-badge&logo=html5&logoColor=F04452" alt="PSW"/>
-
-### 💻 PSW
-
-**Repositório da turma**
-
-</div>
-
-Portal estático que reúne projetos desenvolvidos pela turma nas aulas de Programação de Sistemas Web, facilitando a descoberta e o acesso aos trabalhos em um só lugar.
-
-`HTML` · `CSS` · `JAVASCRIPT`
-
-[↗ Ver repositório](https://github.com/JohnMcArt/repositoriopsw)
-
 </td>
 <td width="50%" valign="top">
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/04-FAN_PORTFOLIO-24102D?style=for-the-badge&logo=artstation&logoColor=C77DFF" alt="Fan Portfolio"/>
-
-### 🎨 Fan Portfolio
-
-**Um dos meus primeiros projetos, repensado**
-
-</div>
-
-Portfólio inspirado no universo visual de Melanie Martinez. A reformulação busca preservar a identidade da artista e aprimorar a experiência com uma interface mais limpa, referências ao design da Apple e elementos surreais.
-
-`HTML` · `CSS` · `JAVASCRIPT` · `UI DESIGN`
-
-[↗ Ver repositório](https://github.com/JohnMcArt/portifoli-melanie)
 
 </td>
 </tr>
@@ -203,7 +181,7 @@ Portfólio inspirado no universo visual de Melanie Martinez. A reformulação bu
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/05-A11Y_PARA_TODOS-24102D?style=for-the-badge&logo=accessibility&logoColor=C77DFF" alt="A11Y para Todos"/>
+<img src="https://img.shields.io/badge/03-A11Y_PARA_TODOS-24102D?style=for-the-badge&logo=accessibility&logoColor=C77DFF" alt="A11Y para Todos"/>
 
 ### ♿ A11Y para Todos
 
@@ -235,7 +213,7 @@ O projeto aborda barreiras que dificultam o acesso à internet, apresentando o t
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/06-GUARDI%C3%95ES_DO_ECA-5A153B?style=for-the-badge&logo=scratch&logoColor=FFFFFF" alt="Guardiões do ECA"/>
+<img src="https://img.shields.io/badge/04-GUARDI%C3%95ES_DO_ECA-5A153B?style=for-the-badge&logo=scratch&logoColor=FFFFFF" alt="Guardiões do ECA"/>
 
 ### 🛡️ Guardiões do ECA
 
@@ -305,3 +283,12 @@ A proposta é aproximar crianças e adolescentes dos direitos garantidos pelo Es
 </a>
 
 <br/><br/>
+
+
+## 📬 Contato
+
+Estou aberto a oportunidades de estágio e primeiro emprego, especialmente em desenvolvimento web, Front-end e áreas relacionadas à tecnologia.
+
+<p align="left">
+  <a href="https://github.com/JohnMcArt">
+    <img src="https://img.shields.io/badge/GitHub-JohnMcArt-090909?style=for-the-badge&logo=github&logoColor=white" alt="
