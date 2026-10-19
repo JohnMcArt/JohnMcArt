@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:08070A,35:1B0B24,65:531044,82:97152E,100:D71932&text=JohnMcArt&fontColor=F8EFF8&fontSize=58&fontAlignY=43&desc=CODE%20%2F%2F%20DESIGN%20%2F%2F%20A%20LITTLE%20CHAOS&descSize=13&descAlignY=68&animation=twinkling" width="100%" alt="JohnMcArt — identidade visual em preto, roxo e vermelho"/>
@@ -239,13 +240,25 @@ A proposta é aproximar crianças e adolescentes dos direitos garantidos pelo Es
 
 *Um projeto de cada vez.*
 
-<div align="left">
+<div align="center">
 
 <a href="https://github.com/JohnMcArt">
 <img src="https://img.shields.io/badge/GITHUB-211127?style=for-the-badge&logo=github&logoColor=C77DFF" alt="GitHub"/>
 </a>
+<a href="https://www.linkedin.com/in/joaomcart/">
+<img src="https://img.shields.io/badge/LINKEDIN-211127?style=for-the-badge&logo=linkedin&logoColor=C77DFF" alt="LinkedIn"/>
+</a>
 <a href="mailto:bastosdasilvajoaopedro@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-211127?style=for-the-badge&logo=gmail&logoColor=F04452" alt="E-mail"/>
 </a>
+<a href="https://johnmcart.github.io/meu-portifolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-211127?style=for-the-badge&logo=firefoxbrowser&logoColor=F04452" alt="Portfólio"/>
+</a>
+
+<br/><br/>
+
+<sub>OPEN TO OPPORTUNITIES · COLLABORATIONS · NEW PROJECTS</sub>
+
+<sub>© 2026 JohnMcArt — CODE // DESIGN // A LITTLE CHAOS</sub>
 
 </div>
